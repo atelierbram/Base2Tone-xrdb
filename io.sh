@@ -27,6 +27,12 @@ overwrite_to_file()
   tools/iterm2xrdb "src/base2tone-sea-light.itermcolors" > "xrdb/base2tone-sea-light.xrdb"
   tools/iterm2xrdb "src/base2tone-space-dark.itermcolors" > "xrdb/base2tone-space-dark.xrdb"
   tools/iterm2xrdb "src/base2tone-space-light.itermcolors" > "xrdb/base2tone-space-light.xrdb"
+  tools/iterm2xrdb "src/base2tone-suburb-dark.itermcolors" > "xrdb/base2tone-suburb-dark.xrdb"
+  tools/iterm2xrdb "src/base2tone-suburb-light.itermcolors" > "xrdb/base2tone-suburb-light.xrdb"
+  tools/iterm2xrdb "src/base2tone-lavender-dark.itermcolors" > "xrdb/base2tone-lavender-dark.xrdb"
+  tools/iterm2xrdb "src/base2tone-lavender-light.itermcolors" > "xrdb/base2tone-lavender-light.xrdb"
+  tools/iterm2xrdb "src/base2tone-garden-dark.itermcolors" > "xrdb/base2tone-garden-dark.xrdb"
+  tools/iterm2xrdb "src/base2tone-garden-light.itermcolors" > "xrdb/base2tone-garden-light.xrdb"
 }
 
 # execute it
